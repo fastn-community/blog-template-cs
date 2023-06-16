@@ -42,8 +42,8 @@ light: #333333
 dark: #FFFFFF
 
 -- ftd.color shadow-:
-light: #6f0100
-dark: #6f0100
+light: #339394
+dark: #339394
 
 -- ftd.color scrim-:
 light: #393939
