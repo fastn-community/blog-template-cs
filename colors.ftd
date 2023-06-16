@@ -11,8 +11,8 @@ light: #3e0e11
 dark: #3e0e11
 
 -- ftd.color overlay-:
-light: #101826
-dark: #101826
+light: rgb(16, 24, 29)
+dark: rgb(16, 24, 29)
 
 -- ftd.color code-:
 light: #2B303B
