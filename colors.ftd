@@ -1,11 +1,10 @@
-;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
 light: #faebd7
-dark: #240002
+dark: #17242c
 
 -- ftd.color step-1-:
 light: #e3bc81
-dark: #550605
+dark: #283c49
 
 -- ftd.color step-2-:
 light: #faad7b
@@ -13,7 +12,7 @@ dark: #3e0e11
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
-dark: rgba(0, 0, 0, 0.8)
+dark: #101826
 
 -- ftd.color code-:
 light: #eaeaea
@@ -28,7 +27,7 @@ code: $code-
 
 -- ftd.color border-:
 light: #222222
-dark: #FFFFFF
+dark: #1f303a
 
 -- ftd.color border-strong-:
 light: #D9D9D9
@@ -36,7 +35,7 @@ dark: #3e0306
 
 -- ftd.color text-:
 light: #707070
-dark: #D9D9D9
+dark: #cfd5dd
 
 -- ftd.color text-strong-:
 light: #333333
@@ -52,11 +51,11 @@ dark: #393939
 
 -- ftd.color cta-primary-base-:
 light: #a53006
-dark: #a53006
+dark: #2b7d7d
 
 -- ftd.color cta-primary-hover-:
 light: #8c2702
-dark: #8c2702
+dark: #5cc6c7
 
 -- ftd.color cta-primary-pressed-:
 light: #611c03
@@ -76,7 +75,7 @@ dark: #a53006
 
 -- ftd.color cta-primary-text-:
 light: #feffff
-dark: #feffff
+dark: #17242c
 
 -- ftd.color cta-primary-text-disabled-:
 light: #65b693
@@ -103,7 +102,7 @@ dark: #EF8435
 
 -- ftd.color cta-secondary-hover-:
 light: #D77730
-dark: #D77730
+dark: #17242c
 
 -- ftd.color cta-secondary-pressed-:
 light: #BF6A2A
@@ -213,11 +212,11 @@ dark: #d97973
 
 -- ftd.color cta-danger-border-:
 light: #e9968c
-dark: #E9968C
+dark: #e1718b
 
 -- ftd.color cta-danger-text-:
 light: #FFFBFE
-dark: #1C1B1F
+dark: #e1718b
 
 -- ftd.color cta-danger-text-disabled-:
 light: #65b693
