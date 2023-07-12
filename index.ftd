@@ -19,7 +19,7 @@ name: default-colors
 -- cd.package: THEME
 name: `blog-template-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `blog-template-cs` Color Scheme
+subtitle: blog-template-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
