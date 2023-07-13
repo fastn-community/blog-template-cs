@@ -252,7 +252,7 @@ lang: ftd
 -- cd.markdown:
 
 Change `-- component page` `colors` property `ftd.color-scheme colors:
-$ftd.default-colors` with `ftd.color-scheme colors: $winter-cs.main`
+$ftd.default-colors` with `ftd.color-scheme colors: $blog-template-cs.main`
 
 replace this line of `FASTN/ds.ftd` file:
 
