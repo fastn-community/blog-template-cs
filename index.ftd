@@ -22,8 +22,8 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: blog-template-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Blog Template CS:  fastn color scheme package
-document-description: Blog Template CS:  fastn color scheme package
+document-title: Dark Gunmetal-themed Colour Scheme for Web Design | fastn Blog Template CS
+document-description: Discover the Blog Template Colour Scheme by fastn, featuring beautiful shades of Dark Gunmetal for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/blog-template-cs-dark.png
 
 -- cp.components-pallete:
